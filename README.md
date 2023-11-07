@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A brazilian front-end developer</h3>
+<h3 align="center">A brazilian full-stack developer</h3>
 
 - 🔭 Currently working on fullstack solutions at e-Gestão
 
